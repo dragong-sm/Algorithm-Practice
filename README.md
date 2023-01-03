@@ -1,3 +1,6 @@
+ [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/dragong-sm/Yeonsu-Analysis)
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/Joowon0220/weather)
+
 **Python**
 --
 
